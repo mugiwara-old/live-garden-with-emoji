@@ -1,2 +1,2 @@
-# just 4 fun 😄
-https://codepen.io/mugiwarafx/pen/MWyvErg
+# having fun with random things 😁
+also added class "system" but it is too slow...

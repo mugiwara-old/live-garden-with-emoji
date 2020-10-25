@@ -38,7 +38,7 @@ h1{
 }
 
 #garden p:nth-child(even) {
-    animation-delay: 3s;
+    animation-delay: 0s;
     animation-duration: 1s;
     animation-iteration-count: infinite;
     transition-timing-function: ease-in-out;
@@ -46,7 +46,7 @@ h1{
 }
 
 #garden p:nth-child(odd) {
-    animation-delay: 5s;
+    animation-delay: 1.5s;
     animation-duration: 1s;
     animation-iteration-count: infinite;
     transition-timing-function: ease-in-out;
@@ -67,5 +67,5 @@ h1{
     font-size: 2em;
     cursor: pointer;
     position: fixed;
-    top: 39%;
+    top: 31%;
 }
